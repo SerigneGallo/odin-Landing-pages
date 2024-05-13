@@ -1,0 +1,93 @@
+body {
+  background-color: blueviolet;
+  font-family: roboto;
+  height: 2000px;
+  margin: 0;
+  padding:0;
+  overflow-x: hidden;
+  
+}
+
+.Container-blue-one {
+  height: 450px;
+  background-color: #1F2937;
+  width: 100%;
+  margin: 0;
+  
+  
+  
+}
+
+.Header-Logo {
+  color: #f9faf8;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.Header-link-one-two-three {
+  color: #E5E7EB;
+  display: flex;
+  gap: 15px;
+}
+
+.Header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-top: -10px;
+}
+
+.Hero-main-text {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #F9FAF8;
+  margin-top: -40px;
+  line-height: 0.9;
+}
+
+.Hero-secondary-text {
+  font-size: 18px;
+  color: #E5E7EB;
+  margin-top: -42px;
+}
+
+button {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  background-color: #3882F6;
+  border: none;
+  padding-left: 29px;
+  padding-right: 29px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  border-radius: 5px;
+}
+
+.sign-up-top {
+  margin-top: -12px;
+}
+
+.Grey-Square {
+  width: 450px;
+  height: 200px;
+  background-color: rgb(109, 117, 123);
+  color: white;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Other-Square {
+  width: 450px;
+  height: 200px;
+  /*border: solid 1px black;*/
+  
+}
+
+.Total-Square {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
