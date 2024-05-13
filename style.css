@@ -1,6 +1,6 @@
 body {
   font-family: roboto;
-  height: 2000px;
+  height: 1600px;
   margin: 0;
   overflow-x: hidden;
 }
@@ -8,10 +8,6 @@ body {
 .Container-blue-one {
   height: 450px;
   background-color: #1F2937;
-}
-
-.container-light-grey-two {
-  height: 400px;
 }
 
 .Header-Logo {
@@ -53,8 +49,8 @@ button {
   font-size: 15px;
   background-color: #3882F6;
   border: none;
-  padding-left: 29px;
-  padding-right: 29px;
+  padding-left: 22px;
+  padding-right: 22px;
   padding-top: 6px;
   padding-bottom: 6px;
   border-radius: 5px;
@@ -78,7 +74,6 @@ button {
   width: 450px;
   height: 200px;
   /*border: solid 1px black;*/
-  
 }
 
 .Total-Square {
@@ -88,11 +83,14 @@ button {
   margin-top: 60px;
 }
 
+.container-light-grey-two {
+  height: 350px;
+}
+
 .information-header-text {
   font-size: 36px;
   font-weight: bolder;
   text-align: center;
-  
 }
 
 .subtext {
@@ -111,5 +109,53 @@ button {
 .conteneur-deux-flex {
   display: flex;
   justify-content: space-evenly;
+  align-items: center;
+}
+
+.container-three {
+  background-color: lightgrey;
+  height: 400px;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.quote-text {
+  font-size: 36px;
+  font-weight: lighter;
+  font-style: italic;
+  color: #1F2937;
+  width: 720px;
+  position:absolute; 
+}
+
+.Thor {
+  position: relative;
+  margin-top: 180px;
+  margin-left: 490px;
+  font-weight: bold;
+  font-size: 19px;
+}
+
+.call-to-action-box {
+  width: 700px;
+  height: 100px;
+  background-color: #3882F6;
+  /*position:absolute;*/
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.sign-up {
+ border: 2px solid white;
+ border-radius: 5px;
+}
+
+.container-four {
+  height: 260px;
+  display: flex;
+  justify-content: center;
   align-items: center;
 }
