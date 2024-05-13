@@ -26,7 +26,7 @@ To view this project, you can visit the live version or clone the repository and
 
 ### Live Version
 
-Access the live version of the project at [https://github.com/SerigneGallo/odin-Landing-pages.git](#).
+Access the live version of the project at [Odin Recipes Live Demo](http://127.0.0.1:5500/odin-Landing-pages/index.html)(#).
 
 ### Local Setup
 
