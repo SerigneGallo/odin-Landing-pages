@@ -1,5 +1,3 @@
-# odin-Landing-pages
-
 # Landing Page Project
 
 ## Introduction
