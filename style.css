@@ -1,5 +1,4 @@
 body {
-  background-color: blueviolet;
   font-family: roboto;
   height: 2000px;
   margin: 0;
@@ -9,6 +8,10 @@ body {
 .Container-blue-one {
   height: 450px;
   background-color: #1F2937;
+}
+
+.container-light-grey-two {
+  height: 400px;
 }
 
 .Header-Logo {
@@ -83,4 +86,30 @@ button {
   justify-content: center;
   align-items: center;
   margin-top: 60px;
+}
+
+.information-header-text {
+  font-size: 36px;
+  font-weight: bolder;
+  text-align: center;
+  
+}
+
+.subtext {
+  color: grey;
+  width: 150px;
+  text-align: center;
+}
+
+.blue-square {
+  width: 150px;
+  height: 150px;
+  border: solid 4px #3882F6;
+  border-radius: 15px;
+}
+
+.conteneur-deux-flex {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
 }
